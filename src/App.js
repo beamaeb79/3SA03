@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       Hello World {2 +3} <br/>
-      Hello {"My Friend"}
+      Hello {"54857/8"}
     </div>
   );
 }
