@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div>
-      Hi Guy! <br/>
-      How are you ?
+      {8+2} <br/>
+      Good Job!
     </div>
   );
 }
